@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontaBankowe", "KontaBankowe\KontaBankowe.csproj", "{008FD015-D97B-457C-8928-AA08E7371E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontraBankowe.Tests", "KontraBankowe.Tests\KontraBankowe.Tests.csproj", "{2C6126A5-BF11-4301-B185-1F11A23D7DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008FD015-D97B-457C-8928-AA08E7371E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008FD015-D97B-457C-8928-AA08E7371E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008FD015-D97B-457C-8928-AA08E7371E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008FD015-D97B-457C-8928-AA08E7371E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6126A5-BF11-4301-B185-1F11A23D7DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6126A5-BF11-4301-B185-1F11A23D7DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6126A5-BF11-4301-B185-1F11A23D7DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6126A5-BF11-4301-B185-1F11A23D7DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
